@@ -8,7 +8,7 @@ Always striving to expand my knowledge, improve my skills, and grow professional
 🛠️ **Recent Projects:**
 
 - **ProductManagementAPI** — An API for managing products. Implemented caching, authorization, and metrics collection.  
-  🧱 ASP.NET Core, Redis, MinIO, PostgreSQL, Prometheus, JWT, Docker, Grafana
+  🧱 ASP.NET Core, Redis, MinIO, PostgreSQL, Prometheus, Grafana, Docker
 
 - **Junior .NET Developer @ TrustScore** *(Aug 2024 – Mar 2025)* — Startup project focused on detecting fake news.  
   🤖 AI-powered news comparison system: REST APIs, real-time data processing, 85% test coverage.  
