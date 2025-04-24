@@ -34,7 +34,4 @@ Always striving to expand my knowledge, improve my skills, and grow professional
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IKonrad98&show_icons=true&count_private=true)
