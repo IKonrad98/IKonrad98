@@ -18,8 +18,6 @@ Always striving to expand my knowledge, improve my skills, and grow professional
 
 💡 **Technologies I work with:**
 
-**Main stack:**
-
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
