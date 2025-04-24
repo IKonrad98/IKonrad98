@@ -38,5 +38,5 @@ Always striving to expand my knowledge, improve my skills, and grow professional
 
 ---
 
-📈 **GitHub Stats:**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IKonrad98&show_icons=true&count_private=true)
