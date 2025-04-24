@@ -1,24 +1,24 @@
-### 👋 Привіт! Я — Ivan Konrad
+### 👋 Hi there! I'm Ivan Konrad
 
-.NET розробник, який хоче розробляти якісні, стабільні й масштабовані сервіси.  
-Кожного разу стараюся розширювати, покращувати свої навички та розвиватися.
+A .NET developer passionate about building high-quality, stable, and scalable services.  
+Always striving to expand my knowledge, improve my skills, and grow professionally.
 
 ---
 
-🛠️ **Останні проєкти:**
+🛠️ **Recent Projects:**
 
-- **ProductManagementAPI** — API для керування продуктами. Реалізовано кешування, авторизацію, збір метрик.  
+- **ProductManagementAPI** — An API for managing products. Implemented caching, authorization, and metrics collection.  
   🧱 ASP.NET Core, Redis, MinIO, PostgreSQL, Prometheus, JWT, Docker, Grafana
 
-- **MinioCleanerService** — сервіс для очищення MinIO від непотрібних файлів, які не прив’язані до продуктів.  
-  🧹 C#, MinIO SDK, Background Services
-
-- **ChatTone API** (у процесі) — сервіс для зміни тону повідомлень: лагідний, професійний тощо.  
-  🎙 GPT, обробка тексту, стильові перетворення
+- **Junior .NET Developer @ TrustScore** *(Aug 2024 – Mar 2025)* — Startup project focused on detecting fake news.  
+  🤖 AI-powered news comparison system: REST APIs, real-time data processing, 85% test coverage.  
+  🧱 ASP.NET Core, .NET, Entity Framework, LINQ, AutoMapper, xUnit, GitHub, Agile
 
 ---
 
-💡 **Що використовую:**
+💡 **Technologies I work with:**
+
+**Main stack:**
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -28,6 +28,9 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![MinIO](https://img.shields.io/badge/-MinIO-FF4773?style=flat-square)
+
+**Additional:**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,12 +38,5 @@
 
 ---
 
-📈 **GitHub статистика:**
-
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanKonrad&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKonrad&layout=compact&theme=radical)
-
----
-
-📫 **Контакти:**
-(додай сюди email, Telegram або LinkedIn — якщо хочеш 👇)
+📈 **GitHub Stats:**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IKonrad98&show_icons=true&count_private=true)
